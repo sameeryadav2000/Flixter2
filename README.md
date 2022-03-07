@@ -41,7 +41,7 @@ Flix shows the latest movies currently playing in theaters. The app utilizes the
 
 
 
-<img src="WalkThrough_Part2.gif" width=250><br>
+<img src="walkthrough2.gif" width=250><br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
@@ -89,7 +89,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 #### Potrait Mode
-<img src="WalkThrough.gif" width=250><br>
+<img src="walkthrough.gif" width=250><br>
 
 
 
